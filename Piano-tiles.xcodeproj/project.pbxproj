@@ -12,6 +12,16 @@
 		B14F0E8D23D18450009AC3C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B14F0E8B23D18450009AC3C9 /* Main.storyboard */; };
 		B14F0E8F23D18453009AC3C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B14F0E8E23D18453009AC3C9 /* Assets.xcassets */; };
 		B14F0E9223D18453009AC3C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B14F0E9023D18453009AC3C9 /* LaunchScreen.storyboard */; };
+		B14F0EA623D1CBDA009AC3C9 /* f-4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0E9D23D1CBD9009AC3C9 /* f-4.mp3 */; };
+		B14F0EA723D1CBDA009AC3C9 /* g4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0E9E23D1CBD9009AC3C9 /* g4.mp3 */; };
+		B14F0EA823D1CBDA009AC3C9 /* g-4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0E9F23D1CBD9009AC3C9 /* g-4.mp3 */; };
+		B14F0EA923D1CBDA009AC3C9 /* g5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0EA023D1CBDA009AC3C9 /* g5.mp3 */; };
+		B14F0EAA23D1CBDA009AC3C9 /* g3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0EA123D1CBDA009AC3C9 /* g3.mp3 */; };
+		B14F0EAB23D1CBDA009AC3C9 /* f5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0EA223D1CBDA009AC3C9 /* f5.mp3 */; };
+		B14F0EAC23D1CBDA009AC3C9 /* f-5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0EA323D1CBDA009AC3C9 /* f-5.mp3 */; };
+		B14F0EAD23D1CBDA009AC3C9 /* f-3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0EA423D1CBDA009AC3C9 /* f-3.mp3 */; };
+		B14F0EAE23D1CBDA009AC3C9 /* a-3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0EA523D1CBDA009AC3C9 /* a-3.mp3 */; };
+		B14F0EB023D1D38D009AC3C9 /* c5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B14F0EAF23D1D38D009AC3C9 /* c5.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +32,16 @@
 		B14F0E8E23D18453009AC3C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B14F0E9123D18453009AC3C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B14F0E9323D18453009AC3C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B14F0E9D23D1CBD9009AC3C9 /* f-4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "f-4.mp3"; path = "../../../../../../Users/asifrabbi/Downloads/f-4.mp3"; sourceTree = "<group>"; };
+		B14F0E9E23D1CBD9009AC3C9 /* g4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = g4.mp3; path = ../../../../../../Users/asifrabbi/Downloads/g4.mp3; sourceTree = "<group>"; };
+		B14F0E9F23D1CBD9009AC3C9 /* g-4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "g-4.mp3"; path = "../../../../../../Users/asifrabbi/Downloads/g-4.mp3"; sourceTree = "<group>"; };
+		B14F0EA023D1CBDA009AC3C9 /* g5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = g5.mp3; path = ../../../../../../Users/asifrabbi/Downloads/g5.mp3; sourceTree = "<group>"; };
+		B14F0EA123D1CBDA009AC3C9 /* g3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = g3.mp3; path = ../../../../../../Users/asifrabbi/Downloads/g3.mp3; sourceTree = "<group>"; };
+		B14F0EA223D1CBDA009AC3C9 /* f5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = f5.mp3; path = ../../../../../../Users/asifrabbi/Downloads/f5.mp3; sourceTree = "<group>"; };
+		B14F0EA323D1CBDA009AC3C9 /* f-5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "f-5.mp3"; path = "../../../../../../Users/asifrabbi/Downloads/f-5.mp3"; sourceTree = "<group>"; };
+		B14F0EA423D1CBDA009AC3C9 /* f-3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "f-3.mp3"; path = "../../../../../../Users/asifrabbi/Downloads/f-3.mp3"; sourceTree = "<group>"; };
+		B14F0EA523D1CBDA009AC3C9 /* a-3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "a-3.mp3"; path = "../../../../../../Users/asifrabbi/Downloads/a-3.mp3"; sourceTree = "<group>"; };
+		B14F0EAF23D1D38D009AC3C9 /* c5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = c5.mp3; path = ../../../../../../Users/asifrabbi/Downloads/c5.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +80,26 @@
 				B14F0E8E23D18453009AC3C9 /* Assets.xcassets */,
 				B14F0E9023D18453009AC3C9 /* LaunchScreen.storyboard */,
 				B14F0E9323D18453009AC3C9 /* Info.plist */,
+				B14F0E9C23D1CBAC009AC3C9 /* Sounds */,
 			);
 			path = "Piano-tiles";
+			sourceTree = "<group>";
+		};
+		B14F0E9C23D1CBAC009AC3C9 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				B14F0EA523D1CBDA009AC3C9 /* a-3.mp3 */,
+				B14F0EA423D1CBDA009AC3C9 /* f-3.mp3 */,
+				B14F0E9D23D1CBD9009AC3C9 /* f-4.mp3 */,
+				B14F0EA323D1CBDA009AC3C9 /* f-5.mp3 */,
+				B14F0EAF23D1D38D009AC3C9 /* c5.mp3 */,
+				B14F0EA223D1CBDA009AC3C9 /* f5.mp3 */,
+				B14F0E9F23D1CBD9009AC3C9 /* g-4.mp3 */,
+				B14F0EA123D1CBDA009AC3C9 /* g3.mp3 */,
+				B14F0E9E23D1CBD9009AC3C9 /* g4.mp3 */,
+				B14F0EA023D1CBDA009AC3C9 /* g5.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +160,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B14F0EB023D1D38D009AC3C9 /* c5.mp3 in Resources */,
+				B14F0EA723D1CBDA009AC3C9 /* g4.mp3 in Resources */,
+				B14F0EA623D1CBDA009AC3C9 /* f-4.mp3 in Resources */,
 				B14F0E9223D18453009AC3C9 /* LaunchScreen.storyboard in Resources */,
+				B14F0EAD23D1CBDA009AC3C9 /* f-3.mp3 in Resources */,
+				B14F0EA823D1CBDA009AC3C9 /* g-4.mp3 in Resources */,
 				B14F0E8F23D18453009AC3C9 /* Assets.xcassets in Resources */,
+				B14F0EAE23D1CBDA009AC3C9 /* a-3.mp3 in Resources */,
+				B14F0EAC23D1CBDA009AC3C9 /* f-5.mp3 in Resources */,
+				B14F0EAB23D1CBDA009AC3C9 /* f5.mp3 in Resources */,
 				B14F0E8D23D18450009AC3C9 /* Main.storyboard in Resources */,
+				B14F0EAA23D1CBDA009AC3C9 /* g3.mp3 in Resources */,
+				B14F0EA923D1CBDA009AC3C9 /* g5.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
