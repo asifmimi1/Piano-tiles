@@ -13,7 +13,7 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
 
     var audioPlayer : AVAudioPlayer!
     var soundArray = [ "a-3", "f-3", "f-4", "f-5", "f5", "g-4", "g3", "g4", "g5", "c5" ]
-    var audioNumber = ""
+    //var audioNumber = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -22,13 +22,13 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
 
     
     @IBAction func playButtons(_ sender: UIButton) {
-       audioNumber = soundArray[sender.tag - 1]
-       audioPlayback()
+      // audioNumber = soundArray[sender.tag - 1]
+       audioPlayback(audioNumber: soundArray[sender.tag - 1])
     }
     
     
     
-    func audioPlayback() {
+    func audioPlayback(audioNumber : String) {
         let soundUrl = Bundle.main.url(forResource: audioNumber, withExtension: "mp3")
         
         do{
